@@ -20,8 +20,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "log4js": "^6.4.4",
-    "mongoose": "^6.2.10",
-    "pug": "^2.0.3"
+    "mongoose": "^6.2.10"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"

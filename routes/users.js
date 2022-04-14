@@ -18,14 +18,17 @@ router.post('/login', async (ctx) => {
       userName,
       userPwd,
     })
+
+    const data = res._doc
+
     const token = jwt.sign({
-      data: res,
-    }, 'imooc', { expiresIn: 30 })
-    console.log(res)
+      data: data,
+    }, 'imooc', { expiresIn: '48h' })
 
     if (res) {
-      res.token = token
-      ctx.body = util.success(res)
+      data.token = token
+      // ...之后，res变了，res里的_doc才是原来的res
+      ctx.body = util.success(data)
     } else {
       ctx.body = util.fail('账号密码不正确')
     }

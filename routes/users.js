@@ -10,31 +10,44 @@ const util = require('../utils/utils')
 
 /* /login 是二级路由 */
 router.post('/login', async (ctx) => {
-  const { userName, userPwd } = ctx.request.body
+	const {
+		userName,
+		userPwd
+	} = ctx.request.body
 
-  try {
-    const { userName, userPwd } = ctx.request.body
-    const res = await User.findOne({
-      userName,
-      userPwd,
-    })
+	try {
+		const {
+			userName,
+			userPwd
+		} = ctx.request.body
+		/**
+		 * 返回数据库指定字段，有三种方式
+		 * 1、 'userId userName '
+		 * 2、{userId:1} 为1返回
+		 */
+		const res = await User.findOne({
+			userName,
+			userPwd,
+		}, 'userId userName userEmail state role deptId roleList')
 
-    const data = res._doc
+		const data = res._doc
 
-    const token = jwt.sign({
-      data: data,
-    }, 'imooc', { expiresIn: '24h' })
+		const token = jwt.sign({
+			data,
+		}, 'imooc', {
+			expiresIn: '1h'
+		})
 
-    if (res) {
-      data.token = token
-      // ...之后，res变了，res里的_doc才是原来的res
-      ctx.body = util.success(data)
-    } else {
-      ctx.body = util.fail('账号密码不正确')
-    }
-  } catch (error) {
-    ctx.body = util.fail(error.msg)
-  }
+		if (res) {
+			data.token = token
+			// ...之后，res变了，res里的_doc才是原来的res
+			ctx.body = util.success(data)
+		} else {
+			ctx.body = util.fail('账号密码不正确')
+		}
+	} catch (error) {
+		ctx.body = util.fail(error.msg)
+	}
 })
 
 module.exports = router

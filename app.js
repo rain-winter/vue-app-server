@@ -5,7 +5,7 @@ const onerror = require('koa-onerror')
 const bodyparser = require('koa-bodyparser')
 const logger = require('koa-logger')
 const router = require('koa-router')() // 获取的是一级路由
-
+const jwt = require('jsonwebtoken')
 
 const log = require('./utils/log4js') // log
 const users = require('./routes/users') // 用户模块路由
@@ -22,7 +22,7 @@ app.use(bodyparser({
 app.use(json())
 app.use(logger())
 
-  
+
 // logger
 app.use(async (ctx, next) => {
 	log.info(`get params:${JSON.stringify(ctx.request.query)}`)
@@ -33,6 +33,15 @@ app.use(async (ctx, next) => {
 
 // routes
 router.prefix('/api') // 设置全局路由前缀
+
+router.get('/leave/count', (ctx) => {
+	// TODO 从ctx.request获取token
+	const token = ctx.request.headers.authorization.split(' ')[1]
+	// TODO 解密出数据
+	const payload = jwt.verify(token, 'imooc')
+	ctx.body = '123'
+})
+
 // 一级路由加载二级路由
 router.use(users.routes(), users.allowedMethods())
 app.use(router.routes(), router.allowedMethods()) // 全局加载下一级路由

@@ -23,7 +23,7 @@ router.post('/login', async (ctx) => {
 
     const token = jwt.sign({
       data: data,
-    }, 'imooc', { expiresIn: '48h' })
+    }, 'imooc', { expiresIn: '24h' })
 
     if (res) {
       data.token = token

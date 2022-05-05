@@ -52,9 +52,9 @@ app.use(koajwt({
 router.prefix('/api') // 设置全局路由前缀
 
 // router.get('/leave/count', (ctx) => {
-// 	// TODO 从ctx.request获取token
+// 	 TODO 从ctx.request获取token
 // 	const token = ctx.request.headers.authorization.split(' ')[1]
-// 	// TODO 解密出数据
+// 	 TODO 解密出数据
 // 	const payload = jwt.verify(token, 'imooc')
 // 	ctx.body = '123'
 // })
@@ -67,5 +67,7 @@ app.use(router.routes(), router.allowedMethods()) // 全局加载下一级路由
 app.on('error', (err, ctx) => {
 	log.error(err)
 });
+
+console.log('http://localhost:3003/')
 
 module.exports = app

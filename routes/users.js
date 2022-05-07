@@ -11,17 +11,12 @@ const util = require('../utils/utils')
 
 /* /login 是二级路由 */
 router.post('/login', async (ctx) => {
-	// const {
-	// 	userName,
-	// 	userPwd
-	// } = ctx.request.body
 
 	try {
 		const {
 			userName,
 			userPwd
 		} = ctx.request.body
-		console.log(userName)
 		/**
 		 * 返回数据库指定字段，有三种方式
 		 * 1、 'userId userName '
@@ -44,7 +39,6 @@ router.post('/login', async (ctx) => {
 		if (res) {
 			data.token = token
 			// ...之后，res变了，res里的_doc才是原来的res
-			console.log(data.token)
 			ctx.body = util.success(data)
 		} else {
 			ctx.body = util.fail('账号密码不正确')
@@ -54,17 +48,25 @@ router.post('/login', async (ctx) => {
 	}
 })
 
-// TODO 获取用户列表
-router.get('list', async (ctx) => {
-	const { userId, userName, state } = ctx.request.body
+//* 获取用户列表
+router.get('/list', async (ctx) => {
+	const { userId, userName, state } = ctx.request.query
 	const { page, skipIndex } = utils.pager(ctx.request.query)
+	console.log(page)
+	console.log(skipIndex)
 	let params = {}
 	if (userId) params.userId = userId
 	if (userName) params.userName = userName
 	if (state && state != '0') params.state = state
+	console.log(params) // { state: '1' }
 	try {
 		const query = User.find(params, { _id: 0, userPwd: 0 })
+		if (query == []) {
+			return utils.success(null, '暂无数据')
+		}
+		// 分页
 		const list = await query.skip(skipIndex).limit(page.pageSize)
+		const total = await User.countDocuments(params) // 获取d总记录数
 		ctx.body = utils.success({
 			page: {
 				...page,

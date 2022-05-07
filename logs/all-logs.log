@@ -57,3 +57,147 @@
 [2022-05-07T15:14:22.350] [INFO] info - ***数据库连接成功***
 [2022-05-07T15:14:26.681] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
 [2022-05-07T15:14:26.682] [INFO] info - post params:{}
+[2022-05-07T15:21:50.203] [INFO] info - ***数据库连接成功***
+[2022-05-07T15:42:35.463] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:42:35.464] [INFO] info - post params:{}
+[2022-05-07T15:43:37.921] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:43:37.922] [INFO] info - post params:{}
+[2022-05-07T15:43:52.022] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:43:52.022] [INFO] info - post params:{}
+[2022-05-07T15:44:20.692] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:44:20.693] [INFO] info - post params:{}
+[2022-05-07T15:44:30.108] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:44:30.110] [INFO] info - post params:{}
+[2022-05-07T15:44:50.077] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:44:50.079] [INFO] info - post params:{}
+[2022-05-07T15:45:01.296] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:45:01.297] [INFO] info - post params:{}
+[2022-05-07T15:50:44.720] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:50:44.720] [INFO] info - post params:{}
+[2022-05-07T15:52:19.774] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:52:19.775] [INFO] info - post params:{}
+[2022-05-07T15:53:05.854] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:53:05.854] [INFO] info - post params:{}
+[2022-05-07T15:56:43.389] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-07T15:56:43.389] [INFO] info - post params:{}
+[2022-05-07T15:57:18.738] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T15:57:18.738] [INFO] info - post params:{}
+[2022-05-07T16:03:03.834] [INFO] info - get params:{}
+[2022-05-07T16:03:03.834] [INFO] info - post params:{}
+[2022-05-07T16:03:03.839] [INFO] info - get params:{}
+[2022-05-07T16:03:03.839] [INFO] info - post params:{}
+[2022-05-07T16:03:03.845] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:03:03.846] [INFO] info - post params:{}
+[2022-05-07T16:03:03.851] [INFO] info - get params:{}
+[2022-05-07T16:03:03.852] [INFO] info - post params:{}
+[2022-05-07T16:03:03.858] [INFO] info - get params:{}
+[2022-05-07T16:03:03.859] [INFO] info - post params:{}
+[2022-05-07T16:03:06.815] [INFO] info - get params:{}
+[2022-05-07T16:03:06.815] [INFO] info - post params:{}
+[2022-05-07T16:03:06.819] [INFO] info - get params:{}
+[2022-05-07T16:03:06.820] [INFO] info - post params:{}
+[2022-05-07T16:03:06.823] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:03:06.824] [INFO] info - post params:{}
+[2022-05-07T16:03:06.832] [INFO] info - get params:{}
+[2022-05-07T16:03:06.832] [INFO] info - post params:{}
+[2022-05-07T16:03:06.836] [INFO] info - get params:{}
+[2022-05-07T16:03:06.837] [INFO] info - post params:{}
+[2022-05-07T16:08:06.773] [INFO] info - get params:{}
+[2022-05-07T16:08:06.773] [INFO] info - post params:{}
+[2022-05-07T16:08:06.777] [INFO] info - get params:{}
+[2022-05-07T16:08:06.778] [INFO] info - post params:{}
+[2022-05-07T16:08:06.781] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:08:06.782] [INFO] info - post params:{}
+[2022-05-07T16:08:06.789] [INFO] info - get params:{}
+[2022-05-07T16:08:06.789] [INFO] info - post params:{}
+[2022-05-07T16:08:06.792] [INFO] info - get params:{}
+[2022-05-07T16:08:06.793] [INFO] info - post params:{}
+[2022-05-07T16:08:43.966] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:08:43.966] [INFO] info - post params:{}
+[2022-05-07T16:08:48.972] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:08:48.972] [INFO] info - post params:{}
+[2022-05-07T16:08:52.792] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-07T16:08:52.793] [INFO] info - post params:{}
+[2022-05-07T16:09:39.241] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:09:39.242] [INFO] info - post params:{}
+[2022-05-07T16:09:58.488] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T16:09:58.489] [INFO] info - post params:{}
+[2022-05-07T16:16:51.904] [INFO] info - ***数据库连接成功***
+[2022-05-07T16:19:20.670] [INFO] info - ***数据库连接成功***
+[2022-05-07T16:32:05.635] [INFO] info - ***数据库连接成功***
+[2022-05-07T16:33:32.728] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:04:44.000] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:04:44.001] [INFO] info - post params:{}
+[2022-05-07T18:07:03.567] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:07:03.568] [INFO] info - post params:{}
+[2022-05-07T18:07:07.244] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:07:07.245] [INFO] info - post params:{}
+[2022-05-07T18:08:20.790] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:08:29.489] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:08:32.702] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:10:50.127] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:11:11.498] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:12:22.206] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:12:22.207] [INFO] info - post params:{}
+[2022-05-07T18:14:58.805] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:14:58.807] [INFO] info - post params:{}
+[2022-05-07T18:15:15.951] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:15:18.746] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:15:18.747] [INFO] info - post params:{}
+[2022-05-07T18:15:23.950] [INFO] info - get params:{}
+[2022-05-07T18:15:23.951] [INFO] info - post params:{"userIds":[1000004]}
+[2022-05-07T18:15:56.665] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:15:56.666] [INFO] info - post params:{}
+[2022-05-07T18:17:25.555] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:17:25.556] [INFO] info - post params:{}
+[2022-05-07T18:17:30.696] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:17:30.697] [INFO] info - post params:{}
+[2022-05-07T18:17:33.974] [INFO] info - get params:{"state":"3","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:17:33.974] [INFO] info - post params:{}
+[2022-05-07T18:17:37.030] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"0"}
+[2022-05-07T18:17:37.031] [INFO] info - post params:{}
+[2022-05-07T18:17:49.960] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"3"}
+[2022-05-07T18:17:49.961] [INFO] info - post params:{}
+[2022-05-07T18:17:54.705] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:17:54.706] [INFO] info - post params:{}
+[2022-05-07T18:18:27.350] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:18:27.351] [INFO] info - post params:{}
+[2022-05-07T18:19:52.409] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:19:52.410] [INFO] info - post params:{}
+[2022-05-07T18:21:31.388] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:22:05.354] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:22:05.355] [INFO] info - post params:{}
+[2022-05-07T18:22:43.733] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:22:45.228] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:22:46.648] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:22:46.649] [INFO] info - post params:{}
+[2022-05-07T18:22:54.993] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:22:54.995] [INFO] info - post params:{}
+[2022-05-07T18:23:51.263] [INFO] info - get params:{"state":"0","userId":"rain","pageNum":"1","pageSize":"10","total":"3"}
+[2022-05-07T18:23:51.263] [INFO] info - post params:{}
+[2022-05-07T18:24:10.878] [INFO] info - get params:{"state":"1","userName":"rain","pageNum":"1","pageSize":"10","total":"3"}
+[2022-05-07T18:24:10.879] [INFO] info - post params:{}
+[2022-05-07T18:24:53.036] [INFO] info - get params:{"state":"0","userName":"rain","pageNum":"1","pageSize":"10","total":"0"}
+[2022-05-07T18:24:53.037] [INFO] info - post params:{}
+[2022-05-07T18:25:49.514] [INFO] info - ***数据库连接成功***
+[2022-05-07T18:26:08.765] [INFO] info - get params:{}
+[2022-05-07T18:26:08.766] [INFO] info - post params:{"userIds":[1]}
+[2022-05-07T18:26:15.369] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:26:15.370] [INFO] info - post params:{}
+[2022-05-07T18:26:17.926] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:26:17.927] [INFO] info - post params:{}
+[2022-05-07T18:26:29.649] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"3"}
+[2022-05-07T18:26:29.650] [INFO] info - post params:{}
+[2022-05-07T18:26:35.064] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:26:35.065] [INFO] info - post params:{}
+[2022-05-07T18:26:41.801] [INFO] info - get params:{}
+[2022-05-07T18:26:41.801] [INFO] info - post params:{"userIds":[1000004]}
+[2022-05-07T18:26:44.440] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"3"}
+[2022-05-07T18:26:44.441] [INFO] info - post params:{}
+[2022-05-07T18:26:44.915] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"3"}
+[2022-05-07T18:26:44.915] [INFO] info - post params:{}
+[2022-05-07T18:26:47.051] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-07T18:26:47.052] [INFO] info - post params:{}
+[2022-05-07T18:26:52.344] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-07T18:26:52.344] [INFO] info - post params:{}
+[2022-05-07T18:27:08.161] [INFO] info - ***数据库连接成功***

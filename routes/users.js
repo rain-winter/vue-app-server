@@ -55,9 +55,9 @@ router.get('/list', async (ctx) => {
 	console.log(page)
 	console.log(skipIndex)
 	let params = {}
-	if (userId) params.userId = userId
-	if (userName) params.userName = userName
-	if (state && state != '0') params.state = state
+	if (userId) params.userId = userId // 根据id查询
+	if (userName) params.userName = userName // 根据userName查询
+	if (state && state != '0') params.state = state // 根据state查询
 	console.log(params) // { state: '1' }
 	try {
 		const query = User.find(params, { _id: 0, userPwd: 0 })
@@ -66,6 +66,7 @@ router.get('/list', async (ctx) => {
 		}
 		// 分页
 		const list = await query.skip(skipIndex).limit(page.pageSize)
+		// console.log(list)
 		const total = await User.countDocuments(params) // 获取d总记录数
 		ctx.body = utils.success({
 			page: {
@@ -79,4 +80,22 @@ router.get('/list', async (ctx) => {
 	}
 })
 
+router.post('/delete', async (ctx) => {
+	// 待删除的用户id数组
+	// 软删除  state改为离职
+	const { userIds } = ctx.request.body
+	console.log(userIds)
+	// User.updateMany({
+	// 	$or: [
+	// 		{ userId: 10001 },
+	// 		{ userId: 1002 }
+	// 	]
+	// })
+	// 将 多条数据的state改为2
+	const res = await User.updateMany({
+		userId: { $in: userIds }
+	}, { state: 2 })
+	console.log(res)
+
+})
 module.exports = router

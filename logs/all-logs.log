@@ -1,203 +1,276 @@
-[2022-05-07T14:51:53.283] [INFO] info - ***数据库连接成功***
-[2022-05-07T14:54:45.098] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:54:45.100] [INFO] info - post params:{}
-[2022-05-07T14:55:12.352] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:55:12.353] [INFO] info - post params:{}
-[2022-05-07T14:56:18.989] [INFO] info - ***数据库连接成功***
-[2022-05-07T14:56:24.534] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:56:24.535] [INFO] info - post params:{}
-[2022-05-07T14:56:41.549] [INFO] info - ***数据库连接成功***
-[2022-05-07T14:56:46.057] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:56:46.058] [INFO] info - post params:{}
-[2022-05-07T14:57:07.502] [INFO] info - ***数据库连接成功***
-[2022-05-07T14:57:11.170] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:57:11.171] [INFO] info - post params:{}
-[2022-05-07T14:57:51.404] [INFO] info - ***数据库连接成功***
-[2022-05-07T14:57:54.382] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:57:54.383] [INFO] info - post params:{}
-[2022-05-07T14:59:15.623] [INFO] info - ***数据库连接成功***
-[2022-05-07T14:59:21.549] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T14:59:21.550] [INFO] info - post params:{}
-[2022-05-07T15:00:24.711] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:00:27.398] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:00:27.399] [INFO] info - post params:{}
-[2022-05-07T15:05:09.441] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:05:12.853] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:05:12.854] [INFO] info - post params:{}
-[2022-05-07T15:05:34.336] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:05:37.596] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:05:37.597] [INFO] info - post params:{}
-[2022-05-07T15:05:42.900] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:05:45.722] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:05:45.723] [INFO] info - post params:{}
-[2022-05-07T15:09:26.144] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:09:28.814] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:09:28.816] [INFO] info - post params:{}
-[2022-05-07T15:09:50.251] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:09:55.231] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:09:55.232] [INFO] info - post params:{}
-[2022-05-07T15:10:18.826] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:10:24.040] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:10:24.041] [INFO] info - post params:{}
-[2022-05-07T15:10:48.078] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:11:59.521] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:12:03.275] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:12:03.276] [INFO] info - post params:{}
-[2022-05-07T15:12:21.223] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:12:25.793] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:12:25.794] [INFO] info - post params:{}
-[2022-05-07T15:13:06.923] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:13:06.924] [INFO] info - post params:{}
-[2022-05-07T15:13:10.413] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:13:10.414] [INFO] info - post params:{}
-[2022-05-07T15:13:31.397] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:13:33.629] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:13:33.630] [INFO] info - post params:{}
-[2022-05-07T15:13:49.444] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:14:22.350] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:14:26.681] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:14:26.682] [INFO] info - post params:{}
-[2022-05-07T15:21:50.203] [INFO] info - ***数据库连接成功***
-[2022-05-07T15:42:35.463] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:42:35.464] [INFO] info - post params:{}
-[2022-05-07T15:43:37.921] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:43:37.922] [INFO] info - post params:{}
-[2022-05-07T15:43:52.022] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:43:52.022] [INFO] info - post params:{}
-[2022-05-07T15:44:20.692] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:44:20.693] [INFO] info - post params:{}
-[2022-05-07T15:44:30.108] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:44:30.110] [INFO] info - post params:{}
-[2022-05-07T15:44:50.077] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:44:50.079] [INFO] info - post params:{}
-[2022-05-07T15:45:01.296] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:45:01.297] [INFO] info - post params:{}
-[2022-05-07T15:50:44.720] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:50:44.720] [INFO] info - post params:{}
-[2022-05-07T15:52:19.774] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:52:19.775] [INFO] info - post params:{}
-[2022-05-07T15:53:05.854] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:53:05.854] [INFO] info - post params:{}
-[2022-05-07T15:56:43.389] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"2"}
-[2022-05-07T15:56:43.389] [INFO] info - post params:{}
-[2022-05-07T15:57:18.738] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T15:57:18.738] [INFO] info - post params:{}
-[2022-05-07T16:03:03.834] [INFO] info - get params:{}
-[2022-05-07T16:03:03.834] [INFO] info - post params:{}
-[2022-05-07T16:03:03.839] [INFO] info - get params:{}
-[2022-05-07T16:03:03.839] [INFO] info - post params:{}
-[2022-05-07T16:03:03.845] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:03:03.846] [INFO] info - post params:{}
-[2022-05-07T16:03:03.851] [INFO] info - get params:{}
-[2022-05-07T16:03:03.852] [INFO] info - post params:{}
-[2022-05-07T16:03:03.858] [INFO] info - get params:{}
-[2022-05-07T16:03:03.859] [INFO] info - post params:{}
-[2022-05-07T16:03:06.815] [INFO] info - get params:{}
-[2022-05-07T16:03:06.815] [INFO] info - post params:{}
-[2022-05-07T16:03:06.819] [INFO] info - get params:{}
-[2022-05-07T16:03:06.820] [INFO] info - post params:{}
-[2022-05-07T16:03:06.823] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:03:06.824] [INFO] info - post params:{}
-[2022-05-07T16:03:06.832] [INFO] info - get params:{}
-[2022-05-07T16:03:06.832] [INFO] info - post params:{}
-[2022-05-07T16:03:06.836] [INFO] info - get params:{}
-[2022-05-07T16:03:06.837] [INFO] info - post params:{}
-[2022-05-07T16:08:06.773] [INFO] info - get params:{}
-[2022-05-07T16:08:06.773] [INFO] info - post params:{}
-[2022-05-07T16:08:06.777] [INFO] info - get params:{}
-[2022-05-07T16:08:06.778] [INFO] info - post params:{}
-[2022-05-07T16:08:06.781] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:08:06.782] [INFO] info - post params:{}
-[2022-05-07T16:08:06.789] [INFO] info - get params:{}
-[2022-05-07T16:08:06.789] [INFO] info - post params:{}
-[2022-05-07T16:08:06.792] [INFO] info - get params:{}
-[2022-05-07T16:08:06.793] [INFO] info - post params:{}
-[2022-05-07T16:08:43.966] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:08:43.966] [INFO] info - post params:{}
-[2022-05-07T16:08:48.972] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:08:48.972] [INFO] info - post params:{}
-[2022-05-07T16:08:52.792] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"2"}
-[2022-05-07T16:08:52.793] [INFO] info - post params:{}
-[2022-05-07T16:09:39.241] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:09:39.242] [INFO] info - post params:{}
-[2022-05-07T16:09:58.488] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T16:09:58.489] [INFO] info - post params:{}
-[2022-05-07T16:16:51.904] [INFO] info - ***数据库连接成功***
-[2022-05-07T16:19:20.670] [INFO] info - ***数据库连接成功***
-[2022-05-07T16:32:05.635] [INFO] info - ***数据库连接成功***
-[2022-05-07T16:33:32.728] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:04:44.000] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:04:44.001] [INFO] info - post params:{}
-[2022-05-07T18:07:03.567] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:07:03.568] [INFO] info - post params:{}
-[2022-05-07T18:07:07.244] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:07:07.245] [INFO] info - post params:{}
-[2022-05-07T18:08:20.790] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:08:29.489] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:08:32.702] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:10:50.127] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:11:11.498] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:12:22.206] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:12:22.207] [INFO] info - post params:{}
-[2022-05-07T18:14:58.805] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:14:58.807] [INFO] info - post params:{}
-[2022-05-07T18:15:15.951] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:15:18.746] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:15:18.747] [INFO] info - post params:{}
-[2022-05-07T18:15:23.950] [INFO] info - get params:{}
-[2022-05-07T18:15:23.951] [INFO] info - post params:{"userIds":[1000004]}
-[2022-05-07T18:15:56.665] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:15:56.666] [INFO] info - post params:{}
-[2022-05-07T18:17:25.555] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:17:25.556] [INFO] info - post params:{}
-[2022-05-07T18:17:30.696] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:17:30.697] [INFO] info - post params:{}
-[2022-05-07T18:17:33.974] [INFO] info - get params:{"state":"3","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:17:33.974] [INFO] info - post params:{}
-[2022-05-07T18:17:37.030] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"0"}
-[2022-05-07T18:17:37.031] [INFO] info - post params:{}
-[2022-05-07T18:17:49.960] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"3"}
-[2022-05-07T18:17:49.961] [INFO] info - post params:{}
-[2022-05-07T18:17:54.705] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:17:54.706] [INFO] info - post params:{}
-[2022-05-07T18:18:27.350] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:18:27.351] [INFO] info - post params:{}
-[2022-05-07T18:19:52.409] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:19:52.410] [INFO] info - post params:{}
-[2022-05-07T18:21:31.388] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:22:05.354] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:22:05.355] [INFO] info - post params:{}
-[2022-05-07T18:22:43.733] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:22:45.228] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:22:46.648] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:22:46.649] [INFO] info - post params:{}
-[2022-05-07T18:22:54.993] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:22:54.995] [INFO] info - post params:{}
-[2022-05-07T18:23:51.263] [INFO] info - get params:{"state":"0","userId":"rain","pageNum":"1","pageSize":"10","total":"3"}
-[2022-05-07T18:23:51.263] [INFO] info - post params:{}
-[2022-05-07T18:24:10.878] [INFO] info - get params:{"state":"1","userName":"rain","pageNum":"1","pageSize":"10","total":"3"}
-[2022-05-07T18:24:10.879] [INFO] info - post params:{}
-[2022-05-07T18:24:53.036] [INFO] info - get params:{"state":"0","userName":"rain","pageNum":"1","pageSize":"10","total":"0"}
-[2022-05-07T18:24:53.037] [INFO] info - post params:{}
-[2022-05-07T18:25:49.514] [INFO] info - ***数据库连接成功***
-[2022-05-07T18:26:08.765] [INFO] info - get params:{}
-[2022-05-07T18:26:08.766] [INFO] info - post params:{"userIds":[1]}
-[2022-05-07T18:26:15.369] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:26:15.370] [INFO] info - post params:{}
-[2022-05-07T18:26:17.926] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:26:17.927] [INFO] info - post params:{}
-[2022-05-07T18:26:29.649] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"3"}
-[2022-05-07T18:26:29.650] [INFO] info - post params:{}
-[2022-05-07T18:26:35.064] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:26:35.065] [INFO] info - post params:{}
-[2022-05-07T18:26:41.801] [INFO] info - get params:{}
-[2022-05-07T18:26:41.801] [INFO] info - post params:{"userIds":[1000004]}
-[2022-05-07T18:26:44.440] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"3"}
-[2022-05-07T18:26:44.441] [INFO] info - post params:{}
-[2022-05-07T18:26:44.915] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"3"}
-[2022-05-07T18:26:44.915] [INFO] info - post params:{}
-[2022-05-07T18:26:47.051] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
-[2022-05-07T18:26:47.052] [INFO] info - post params:{}
-[2022-05-07T18:26:52.344] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
-[2022-05-07T18:26:52.344] [INFO] info - post params:{}
-[2022-05-07T18:27:08.161] [INFO] info - ***数据库连接成功***
+[2022-05-09T11:14:53.422] [INFO] info - ***数据库连接成功***
+[2022-05-09T11:14:57.675] [INFO] info - get params:{}
+[2022-05-09T11:14:57.676] [INFO] info - post params:{}
+[2022-05-09T11:16:42.112] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-09T11:16:42.113] [INFO] info - post params:{}
+[2022-05-09T11:22:47.288] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:22:47.289] [INFO] info - post params:{}
+[2022-05-09T11:23:23.292] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-09T11:23:23.293] [INFO] info - post params:{}
+[2022-05-09T11:23:51.130] [INFO] info - get params:{}
+[2022-05-09T11:23:51.131] [INFO] info - post params:{}
+[2022-05-09T11:25:16.257] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:25:16.258] [INFO] info - post params:{}
+[2022-05-09T11:26:10.014] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:26:10.016] [INFO] info - post params:{}
+[2022-05-09T11:49:24.289] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:49:24.289] [INFO] info - post params:{}
+[2022-05-09T11:53:49.941] [INFO] info - ***数据库连接成功***
+[2022-05-09T11:53:56.524] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:53:56.526] [INFO] info - post params:{}
+[2022-05-09T11:54:17.096] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:54:17.098] [INFO] info - post params:{}
+[2022-05-09T11:55:39.196] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:55:39.196] [INFO] info - post params:{}
+[2022-05-09T11:55:50.330] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:55:50.331] [INFO] info - post params:{}
+[2022-05-09T11:57:06.068] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:57:06.069] [INFO] info - post params:{}
+[2022-05-09T11:58:13.741] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:58:13.741] [INFO] info - post params:{}
+[2022-05-09T11:58:21.595] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:58:21.596] [INFO] info - post params:{}
+[2022-05-09T11:58:34.232] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T11:58:34.233] [INFO] info - post params:{}
+[2022-05-09T12:05:38.130] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:05:38.130] [INFO] info - post params:{}
+[2022-05-09T12:07:23.499] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:07:23.499] [INFO] info - post params:{}
+[2022-05-09T12:07:40.902] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:07:40.903] [INFO] info - post params:{}
+[2022-05-09T12:07:50.004] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:07:50.005] [INFO] info - post params:{}
+[2022-05-09T12:08:10.586] [INFO] info - get params:{}
+[2022-05-09T12:08:10.586] [INFO] info - post params:{"state":1,"roleList":["60e117c2b993003378ab3015"],"updateTime":"2022-05-09T03:53:49.867Z","deptId":["60e11cd22b79ce59b8c75eba","60e11cdd2b79ce59b8c75ebd"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":1000004,"userName":"user","userEmail":"test04@qq.com@imooc.com","job":"前端技术人员","mobile":"13739639097","__v":0,"action":"edit"}
+[2022-05-09T12:10:04.625] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:11:14.764] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:11:24.029] [INFO] info - get params:{}
+[2022-05-09T12:11:24.030] [INFO] info - post params:{"state":1,"roleList":["60e117c2b993003378ab3015"],"updateTime":"2022-05-09T03:53:49.867Z","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":1000004,"userName":"user","userEmail":"test04@qq.com@imooc.com@imooc.com","job":"前端技术人员","mobile":"13739639097","__v":0,"action":"edit"}
+[2022-05-09T12:13:06.881] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:13:08.466] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:13:29.969] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:13:34.080] [INFO] info - get params:{}
+[2022-05-09T12:13:34.081] [INFO] info - post params:{"state":1,"roleList":["60e117c2b993003378ab3015"],"updateTime":"2022-05-09T03:53:49.867Z","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":1000004,"userName":"user","userEmail":"test04@qq.com@imooc.com@imooc.com@imooc.com","job":"前端技术人员","mobile":"13739639097","__v":0,"action":"edit"}
+[2022-05-09T12:14:29.058] [INFO] info - get params:{}
+[2022-05-09T12:14:29.058] [INFO] info - post params:{"state":1,"roleList":["60180b76b1eaed6c45fbebe0"],"updateTime":"2022-05-09T03:53:49.867Z","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":1000004,"userName":"user","userEmail":"test04@qq.com@imooc.com@imooc.com@imooc.com@imooc.com","job":"前端技术人员","mobile":"13739639097","__v":0,"action":"edit"}
+[2022-05-09T12:14:43.342] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:14:43.343] [INFO] info - post params:{}
+[2022-05-09T12:14:45.760] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:14:45.761] [INFO] info - post params:{}
+[2022-05-09T12:15:36.681] [INFO] info - get params:{}
+[2022-05-09T12:15:36.681] [INFO] info - post params:{"state":2,"roleList":["60180b80b1eaed6c45fbebe1"],"updateTime":"2022-05-09T04:13:29.920Z","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com","job":"前端技术人员","mobile":"13739578787","__v":0,"action":"edit"}
+[2022-05-09T12:17:59.315] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:18:02.961] [INFO] info - get params:{}
+[2022-05-09T12:18:02.962] [INFO] info - post params:{"state":2,"roleList":["60180b80b1eaed6c45fbebe1"],"updateTime":"2022-05-09T04:13:29.920Z","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com@imooc.com","job":"前端技术人员","mobile":"13739578787","__v":0,"action":"edit"}
+[2022-05-09T12:18:30.617] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:18:30.617] [INFO] info - post params:{}
+[2022-05-09T12:19:25.572] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:19:25.573] [INFO] info - post params:{}
+[2022-05-09T12:19:40.302] [INFO] info - get params:{}
+[2022-05-09T12:19:40.303] [INFO] info - post params:{"state":2,"roleList":["60180b69b1eaed6c45fbebdf"],"updateTime":"2022-05-09T04:17:59.256Z","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com","job":"前端技术人员","mobile":"13739875643","__v":0,"action":"edit"}
+[2022-05-09T12:23:05.430] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:23:11.217] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:23:11.218] [INFO] info - post params:{}
+[2022-05-09T12:23:19.113] [INFO] info - get params:{}
+[2022-05-09T12:23:19.115] [INFO] info - post params:{"state":1,"roleList":["60e117c2b993003378ab3015"],"updateTime":"2022-05-09T04:23:05.368Z","deptId":["60e11cd22b79ce59b8c75eba","60e11cdd2b79ce59b8c75ebd"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com","job":"前端技术人员","mobile":"13739875643","__v":0,"action":"edit"}
+[2022-05-09T12:23:41.229] [INFO] info - get params:{}
+[2022-05-09T12:23:41.230] [INFO] info - post params:{"state":1,"roleList":["60180b76b1eaed6c45fbebe0"],"updateTime":"2022-05-09T04:23:05.368Z","deptId":["60e11cd22b79ce59b8c75eba","60e11cdd2b79ce59b8c75ebd"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com@imooc.com","job":"前端技术人员","mobile":"13739875643","__v":0,"action":"edit"}
+[2022-05-09T12:24:26.390] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:24:32.653] [INFO] info - get params:{}
+[2022-05-09T12:24:32.654] [INFO] info - post params:{"state":1,"roleList":["60180b76b1eaed6c45fbebe0"],"updateTime":"2022-05-09T04:23:05.368Z","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com@imooc.com@imooc.com","job":"前端技术人员","mobile":"13739875643","__v":0,"action":"edit"}
+[2022-05-09T12:28:08.460] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:28:08.462] [INFO] info - post params:{}
+[2022-05-09T12:30:44.925] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:30:44.926] [INFO] info - post params:{}
+[2022-05-09T12:30:49.041] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-09T12:30:49.042] [INFO] info - post params:{}
+[2022-05-09T12:30:52.159] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-09T12:30:52.159] [INFO] info - post params:{}
+[2022-05-09T12:30:54.978] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"0"}
+[2022-05-09T12:30:54.978] [INFO] info - post params:{}
+[2022-05-09T12:31:02.716] [INFO] info - get params:{}
+[2022-05-09T12:31:02.717] [INFO] info - post params:{"state":2,"roleList":["60180b76b1eaed6c45fbebe0"],"updateTime":"2022-05-09T04:24:26.339Z","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"role":1,"createTime":"2021-07-17T13:16:32.703Z","lastLoginTime":"2021-07-17T13:16:32.703Z","userId":112,"userName":"user","userEmail":"test04@qq.com@imooc.com","job":"前端技术人员","mobile":"13739875643","__v":0,"action":"edit"}
+[2022-05-09T12:31:06.567] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:31:06.568] [INFO] info - post params:{}
+[2022-05-09T12:31:29.218] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:31:29.219] [INFO] info - post params:{}
+[2022-05-09T12:31:36.580] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-09T12:31:36.581] [INFO] info - post params:{}
+[2022-05-09T12:31:38.892] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-09T12:31:38.892] [INFO] info - post params:{}
+[2022-05-09T12:32:24.711] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:32:24.712] [INFO] info - post params:{}
+[2022-05-09T12:32:26.963] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:32:26.964] [INFO] info - post params:{}
+[2022-05-09T12:33:37.559] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:33:37.560] [INFO] info - post params:{}
+[2022-05-09T12:33:54.496] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:33:54.497] [INFO] info - post params:{}
+[2022-05-09T12:34:44.519] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:34:44.520] [INFO] info - post params:{}
+[2022-05-09T12:34:56.250] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:34:56.251] [INFO] info - post params:{}
+[2022-05-09T12:35:18.767] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:35:18.768] [INFO] info - post params:{}
+[2022-05-09T12:37:02.243] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:37:02.244] [INFO] info - post params:{}
+[2022-05-09T12:37:06.580] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-09T12:37:06.580] [INFO] info - post params:{}
+[2022-05-09T12:38:00.577] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:38:00.578] [INFO] info - post params:{}
+[2022-05-09T12:38:17.687] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:38:17.688] [INFO] info - post params:{}
+[2022-05-09T12:38:34.885] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:38:34.885] [INFO] info - post params:{}
+[2022-05-09T12:38:51.275] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:38:51.276] [INFO] info - post params:{}
+[2022-05-09T12:38:56.700] [INFO] info - get params:{"state":"1","pageNum":"1","pageSize":"10","total":"2"}
+[2022-05-09T12:38:56.701] [INFO] info - post params:{}
+[2022-05-09T12:39:02.102] [INFO] info - get params:{"state":"2","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-09T12:39:02.102] [INFO] info - post params:{}
+[2022-05-09T12:39:05.823] [INFO] info - get params:{"state":"3","pageNum":"1","pageSize":"10","total":"1"}
+[2022-05-09T12:39:05.825] [INFO] info - post params:{}
+[2022-05-09T12:39:07.985] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10","total":"0"}
+[2022-05-09T12:39:07.986] [INFO] info - post params:{}
+[2022-05-09T12:52:51.973] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T12:52:51.975] [INFO] info - post params:{}
+[2022-05-09T12:55:55.359] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:58:00.864] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:58:29.282] [INFO] info - ***数据库连接成功***
+[2022-05-09T12:58:55.169] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:00:32.811] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:01:25.063] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:03:29.900] [INFO] info - get params:{}
+[2022-05-09T13:03:29.902] [INFO] info - post params:{"state":3,"roleList":[],"userName":"12","userEmail":"122121212@imooc.com","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"action":"add"}
+[2022-05-09T13:03:51.068] [INFO] info - get params:{}
+[2022-05-09T13:03:51.070] [INFO] info - post params:{"state":3,"roleList":[],"userName":"12","userEmail":"122121212@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"action":"add"}
+[2022-05-09T13:04:29.305] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:04:29.306] [INFO] info - post params:{}
+[2022-05-09T13:04:49.203] [INFO] info - get params:{}
+[2022-05-09T13:04:49.204] [INFO] info - post params:{"state":3,"roleList":[],"userName":"hello","userEmail":"31003948858@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:05:47.182] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:06:20.023] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:06:20.890] [INFO] info - get params:{}
+[2022-05-09T13:06:20.891] [INFO] info - post params:{"state":3,"roleList":[],"userName":"hello","userEmail":"31003948858@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:06:30.150] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:07:39.335] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:08:04.660] [INFO] info - get params:{}
+[2022-05-09T13:08:04.663] [INFO] info - post params:{"state":3,"roleList":[],"userName":"hello","userEmail":"31003948858@imooc.com@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:08:10.927] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:08:10.929] [INFO] info - post params:{}
+[2022-05-09T13:08:27.617] [INFO] info - get params:{}
+[2022-05-09T13:08:27.619] [INFO] info - post params:{"state":3,"roleList":[],"userName":"2212","userEmail":"2121212@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:08:53.078] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:09:58.452] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:09:58.454] [INFO] info - post params:{}
+[2022-05-09T13:10:19.409] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:10:19.410] [INFO] info - post params:{}
+[2022-05-09T13:10:32.170] [INFO] info - get params:{}
+[2022-05-09T13:10:32.170] [INFO] info - post params:{"state":3,"roleList":[],"userName":"1212","userEmail":"1212121@imooc.com","deptId":["60167059c9027b7d2c520a61"],"action":"add"}
+[2022-05-09T13:16:05.830] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:18:14.070] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:18:53.747] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:19:43.098] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:19:53.129] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:19:53.130] [INFO] info - post params:{}
+[2022-05-09T13:20:09.202] [INFO] info - get params:{}
+[2022-05-09T13:20:09.205] [INFO] info - post params:{"state":3,"roleList":[],"userName":"hello","userEmail":"1208764@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:20:16.679] [INFO] info - get params:{}
+[2022-05-09T13:20:16.680] [INFO] info - post params:{"state":3,"roleList":[],"userName":"hello--123","userEmail":"1208764@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:21:01.149] [INFO] info - get params:{}
+[2022-05-09T13:21:01.151] [INFO] info - post params:{"state":3,"roleList":[],"userName":"tom","userEmail":"12087rrrr64@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","60167345c6a4417f2d27506f"],"action":"add"}
+[2022-05-09T13:21:23.532] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:21:26.966] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:21:26.967] [INFO] info - post params:{}
+[2022-05-09T13:21:37.638] [INFO] info - get params:{}
+[2022-05-09T13:21:37.640] [INFO] info - post params:{"state":3,"roleList":[],"userName":"tom","userEmail":"123@imooc.com","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"action":"add"}
+[2022-05-09T13:22:00.695] [INFO] info - ***数据库连接成功***
+[2022-05-09T13:22:06.143] [INFO] info - get params:{}
+[2022-05-09T13:22:06.144] [INFO] info - post params:{"state":3,"roleList":[],"userName":"tom","userEmail":"123@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"action":"add"}
+[2022-05-09T13:22:09.986] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T13:22:09.988] [INFO] info - post params:{}
+[2022-05-09T20:47:56.481] [INFO] info - ***数据库连接成功***
+[2022-05-09T20:50:34.071] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T20:50:34.073] [INFO] info - post params:{}
+[2022-05-09T20:54:15.451] [INFO] info - ***数据库连接成功***
+[2022-05-09T20:57:07.699] [INFO] info - ***数据库连接成功***
+[2022-05-09T20:57:14.507] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T20:57:14.508] [INFO] info - post params:{}
+[2022-05-09T20:57:27.225] [INFO] info - get params:{}
+[2022-05-09T20:57:27.226] [INFO] info - post params:{"state":3,"roleList":["60180b76b1eaed6c45fbebe0"],"userId":9,"userName":"tom","userEmail":"123@imooc.com@imooc.com@imooc.com","deptId":["60167059c9027b7d2c520a61","6016728fc6a4417f2d27506e"],"role":1,"createTime":"2022-05-09T05:22:00.591Z","updateTime":"2022-05-09T05:22:00.591Z","__v":0,"action":"edit"}
+[2022-05-09T20:57:35.339] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T20:57:35.339] [INFO] info - post params:{}
+[2022-05-09T20:57:43.967] [INFO] info - get params:{}
+[2022-05-09T20:57:43.968] [INFO] info - post params:{"userIds":[9]}
+[2022-05-09T20:58:31.855] [INFO] info - ***数据库连接成功***
+[2022-05-09T20:58:35.288] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T20:58:35.289] [INFO] info - post params:{}
+[2022-05-09T20:58:39.291] [INFO] info - get params:{}
+[2022-05-09T20:58:39.292] [INFO] info - post params:{"userIds":[9]}
+[2022-05-09T21:00:07.611] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:00:18.849] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:00:18.850] [INFO] info - post params:{}
+[2022-05-09T21:00:20.345] [INFO] info - get params:{}
+[2022-05-09T21:00:20.346] [INFO] info - post params:{"userIds":[9]}
+[2022-05-09T21:00:37.355] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:00:42.483] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:00:42.484] [INFO] info - post params:{}
+[2022-05-09T21:00:44.730] [INFO] info - get params:{}
+[2022-05-09T21:00:44.731] [INFO] info - post params:{"userIds":[9]}
+[2022-05-09T21:02:21.461] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:02:24.802] [INFO] info - get params:{}
+[2022-05-09T21:02:24.803] [INFO] info - post params:{"userIds":[9]}
+[2022-05-09T21:02:52.926] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:02:52.927] [INFO] info - post params:{}
+[2022-05-09T21:03:16.080] [INFO] info - get params:{}
+[2022-05-09T21:03:16.080] [INFO] info - post params:{"userIds":[111]}
+[2022-05-09T21:03:20.361] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:03:20.362] [INFO] info - post params:{}
+[2022-05-09T21:03:46.026] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:04:00.491] [INFO] info - get params:{}
+[2022-05-09T21:04:00.492] [INFO] info - post params:{"userIds":[112,111,9]}
+[2022-05-09T21:05:31.562] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:05:31.562] [INFO] info - post params:{}
+[2022-05-09T21:06:31.763] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:06:31.764] [INFO] info - post params:{}
+[2022-05-09T21:06:53.061] [INFO] info - get params:{}
+[2022-05-09T21:06:53.061] [INFO] info - post params:{"userIds":[112]}
+[2022-05-09T21:07:08.913] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:07:08.914] [INFO] info - post params:{}
+[2022-05-09T21:07:26.510] [INFO] info - get params:{}
+[2022-05-09T21:07:26.510] [INFO] info - post params:{"userIds":[111]}
+[2022-05-09T21:08:37.975] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:08:37.976] [INFO] info - post params:{}
+[2022-05-09T21:08:40.144] [INFO] info - get params:{}
+[2022-05-09T21:08:40.144] [INFO] info - post params:{"userIds":[112]}
+[2022-05-09T21:10:11.127] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:10:23.732] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:10:23.733] [INFO] info - post params:{}
+[2022-05-09T21:10:25.751] [INFO] info - get params:{}
+[2022-05-09T21:10:25.751] [INFO] info - post params:{"userIds":[9]}
+[2022-05-09T21:11:13.904] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:11:19.862] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:11:23.888] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:11:23.889] [INFO] info - post params:{}
+[2022-05-09T21:11:28.712] [INFO] info - get params:{}
+[2022-05-09T21:11:28.713] [INFO] info - post params:{"userIds":[112]}
+[2022-05-09T21:11:39.655] [INFO] info - get params:{}
+[2022-05-09T21:11:39.655] [INFO] info - post params:{"userIds":[112]}
+[2022-05-09T21:11:44.888] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:11:44.889] [INFO] info - post params:{}
+[2022-05-09T21:11:57.975] [INFO] info - get params:{}
+[2022-05-09T21:11:57.976] [INFO] info - post params:{"userIds":[111]}
+[2022-05-09T21:12:14.866] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:12:34.668] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:13:00.077] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:13:00.078] [INFO] info - post params:{}
+[2022-05-09T21:13:07.607] [INFO] info - get params:{}
+[2022-05-09T21:13:07.607] [INFO] info - post params:{"userIds":[112]}
+[2022-05-09T21:13:09.948] [INFO] info - get params:{}
+[2022-05-09T21:13:09.948] [INFO] info - post params:{"userIds":[111]}
+[2022-05-09T21:13:33.202] [INFO] info - ***数据库连接成功***
+[2022-05-09T21:13:36.178] [INFO] info - get params:{}
+[2022-05-09T21:13:36.178] [INFO] info - post params:{"userIds":[112]}
+[2022-05-09T21:13:41.472] [INFO] info - get params:{"state":"0","pageNum":"1","pageSize":"10"}
+[2022-05-09T21:13:41.473] [INFO] info - post params:{}
+[2022-05-09T21:35:04.558] [INFO] info - ***数据库连接成功***

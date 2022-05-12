@@ -175,3 +175,291 @@
 [2022-05-12T16:37:01.223] [INFO] info - post params:{"_id":"600d525e602f452aaeeffcd9","action":"delete"}
 [2022-05-12T16:37:32.563] [INFO] info - ***数据库连接成功***
 [2022-05-12T16:39:07.950] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:44:53.864] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:46:42.956] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:47:43.057] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:48:07.730] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:48:20.203] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:48:36.537] [INFO] info - ***数据库连接成功***
+[2022-05-12T16:50:25.107] [INFO] info - get params:{}
+[2022-05-12T16:50:25.108] [INFO] info - post params:{}
+[2022-05-12T16:50:25.153] [INFO] info - get params:{}
+[2022-05-12T16:50:25.154] [INFO] info - post params:{}
+[2022-05-12T16:50:28.639] [INFO] info - get params:{}
+[2022-05-12T16:50:28.639] [INFO] info - post params:{}
+[2022-05-12T16:50:28.655] [INFO] info - get params:{}
+[2022-05-12T16:50:28.655] [INFO] info - post params:{}
+[2022-05-12T16:50:48.695] [INFO] info - get params:{}
+[2022-05-12T16:50:48.696] [INFO] info - post params:{"menuType":1,"menuState":1,"menuName":"12121","action":"add"}
+[2022-05-12T16:50:48.936] [INFO] info - get params:{}
+[2022-05-12T16:50:48.936] [INFO] info - post params:{}
+[2022-05-12T16:51:00.534] [INFO] info - get params:{}
+[2022-05-12T16:51:00.536] [INFO] info - post params:{}
+[2022-05-12T16:51:00.550] [INFO] info - get params:{}
+[2022-05-12T16:51:00.551] [INFO] info - post params:{}
+[2022-05-12T16:51:09.671] [INFO] info - get params:{}
+[2022-05-12T16:51:09.672] [INFO] info - post params:{"menuType":1,"menuState":1,"parentId":["627cca68c77c7989057a2c5e"],"menuName":"ewew","action":"add"}
+[2022-05-12T16:51:09.938] [INFO] info - get params:{}
+[2022-05-12T16:51:09.939] [INFO] info - post params:{}
+[2022-05-12T16:51:12.706] [INFO] info - get params:{}
+[2022-05-12T16:51:12.706] [INFO] info - post params:{}
+[2022-05-12T16:51:12.718] [INFO] info - get params:{}
+[2022-05-12T16:51:12.719] [INFO] info - post params:{}
+[2022-05-12T16:51:25.229] [INFO] info - get params:{}
+[2022-05-12T16:51:25.229] [INFO] info - post params:{"menuType":1,"menuState":1,"parentId":["627cca68c77c7989057a2c5e"],"menuName":"dddddd","action":"add"}
+[2022-05-12T16:51:25.492] [INFO] info - get params:{}
+[2022-05-12T16:51:25.492] [INFO] info - post params:{}
+[2022-05-12T16:51:29.220] [INFO] info - get params:{}
+[2022-05-12T16:51:29.221] [INFO] info - post params:{}
+[2022-05-12T16:51:29.243] [INFO] info - get params:{}
+[2022-05-12T16:51:29.245] [INFO] info - post params:{}
+[2022-05-12T16:52:05.759] [INFO] info - get params:{}
+[2022-05-12T16:52:05.760] [INFO] info - post params:{"menuType":1,"menuState":1,"parentId":["627cca68c77c7989057a2c5e"],"menuName":"你好啊","action":"add"}
+[2022-05-12T16:52:06.027] [INFO] info - get params:{}
+[2022-05-12T16:52:06.029] [INFO] info - post params:{}
+[2022-05-12T16:52:08.230] [INFO] info - get params:{}
+[2022-05-12T16:52:08.231] [INFO] info - post params:{}
+[2022-05-12T16:52:08.245] [INFO] info - get params:{}
+[2022-05-12T16:52:08.246] [INFO] info - post params:{}
+[2022-05-12T16:54:20.413] [INFO] info - get params:{}
+[2022-05-12T16:54:20.414] [INFO] info - post params:{}
+[2022-05-12T16:54:20.426] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2}","_value":"{\"menuState\":2}"}
+[2022-05-12T16:54:20.427] [INFO] info - post params:{}
+[2022-05-12T16:54:36.910] [INFO] info - get params:{}
+[2022-05-12T16:54:36.910] [INFO] info - post params:{}
+[2022-05-12T16:54:37.217] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2}","_value":"{\"menuState\":2}"}
+[2022-05-12T16:54:37.218] [INFO] info - post params:{}
+[2022-05-12T16:54:44.457] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2,\"menuName\":\"12121\"}","_value":"{\"menuState\":2,\"menuName\":\"12121\"}"}
+[2022-05-12T16:54:44.458] [INFO] info - post params:{}
+[2022-05-12T16:55:40.696] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T16:55:40.697] [INFO] info - post params:{}
+[2022-05-12T16:55:50.502] [INFO] info - get params:{"menuState":"2","menuName":"12121"}
+[2022-05-12T16:55:50.502] [INFO] info - post params:{}
+[2022-05-12T16:57:33.125] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2}","_value":"{\"menuState\":2}"}
+[2022-05-12T16:57:33.127] [INFO] info - post params:{}
+[2022-05-12T16:57:50.053] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2}","_value":"{\"menuState\":2}"}
+[2022-05-12T16:57:50.054] [INFO] info - post params:{}
+[2022-05-12T16:57:59.606] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2,\"menuName\":\" 12121\"}","_value":"{\"menuState\":2,\"menuName\":\" 12121\"}"}
+[2022-05-12T16:57:59.607] [INFO] info - post params:{}
+[2022-05-12T16:58:07.810] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":1,\"menuName\":\" 12121\"}","_value":"{\"menuState\":1,\"menuName\":\" 12121\"}"}
+[2022-05-12T16:58:07.810] [INFO] info - post params:{}
+[2022-05-12T16:58:15.781] [INFO] info - get params:{}
+[2022-05-12T16:58:15.781] [INFO] info - post params:{}
+[2022-05-12T16:58:15.788] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2}","_value":"{\"menuState\":2}"}
+[2022-05-12T16:58:15.789] [INFO] info - post params:{}
+[2022-05-12T16:58:19.124] [INFO] info - get params:{"__v_isShallow":"false","dep":"{\"w\":0,\"n\":0}","__v_isRef":"true","_rawValue":"{\"menuState\":2}","_value":"{\"menuState\":2}"}
+[2022-05-12T16:58:19.124] [INFO] info - post params:{}
+[2022-05-12T16:59:00.828] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T16:59:00.829] [INFO] info - post params:{}
+[2022-05-12T16:59:03.353] [INFO] info - get params:{}
+[2022-05-12T16:59:03.353] [INFO] info - post params:{}
+[2022-05-12T16:59:03.357] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T16:59:03.357] [INFO] info - post params:{}
+[2022-05-12T16:59:06.481] [INFO] info - get params:{}
+[2022-05-12T16:59:06.481] [INFO] info - post params:{}
+[2022-05-12T16:59:06.484] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T16:59:06.485] [INFO] info - post params:{}
+[2022-05-12T16:59:27.751] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T16:59:27.752] [INFO] info - post params:{}
+[2022-05-12T16:59:51.813] [INFO] info - get params:{}
+[2022-05-12T16:59:51.813] [INFO] info - post params:{"_id":"627cca68c77c7989057a2c5e","action":"delete"}
+[2022-05-12T16:59:52.078] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T16:59:52.079] [INFO] info - post params:{}
+[2022-05-12T16:59:55.499] [INFO] info - get params:{}
+[2022-05-12T16:59:55.500] [INFO] info - post params:{}
+[2022-05-12T16:59:55.505] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T16:59:55.506] [INFO] info - post params:{}
+[2022-05-12T17:00:44.919] [INFO] info - get params:{}
+[2022-05-12T17:00:44.919] [INFO] info - post params:{}
+[2022-05-12T17:00:44.922] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T17:00:44.922] [INFO] info - post params:{}
+[2022-05-12T17:00:50.329] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:00:50.329] [INFO] info - post params:{}
+[2022-05-12T17:01:03.520] [INFO] info - get params:{}
+[2022-05-12T17:01:03.520] [INFO] info - post params:{}
+[2022-05-12T17:01:03.524] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T17:01:03.524] [INFO] info - post params:{}
+[2022-05-12T17:01:09.945] [INFO] info - get params:{}
+[2022-05-12T17:01:09.946] [INFO] info - post params:{}
+[2022-05-12T17:01:09.950] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T17:01:09.950] [INFO] info - post params:{}
+[2022-05-12T17:01:49.235] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:01:49.236] [INFO] info - post params:{}
+[2022-05-12T17:02:19.614] [INFO] info - get params:{}
+[2022-05-12T17:02:19.614] [INFO] info - post params:{"menuType":1,"menuState":1,"menuName":"系统管理","action":"add"}
+[2022-05-12T17:02:19.880] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:02:19.880] [INFO] info - post params:{}
+[2022-05-12T17:02:22.064] [INFO] info - get params:{}
+[2022-05-12T17:02:22.064] [INFO] info - post params:{}
+[2022-05-12T17:02:22.069] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:02:22.069] [INFO] info - post params:{}
+[2022-05-12T17:02:42.392] [INFO] info - get params:{}
+[2022-05-12T17:02:42.393] [INFO] info - post params:{"menuType":1,"menuState":1,"menuName":"审批管理","action":"add"}
+[2022-05-12T17:02:42.653] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:02:42.653] [INFO] info - post params:{}
+[2022-05-12T17:02:45.275] [INFO] info - get params:{}
+[2022-05-12T17:02:45.276] [INFO] info - post params:{}
+[2022-05-12T17:02:45.280] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:02:45.280] [INFO] info - post params:{}
+[2022-05-12T17:03:12.268] [INFO] info - get params:{}
+[2022-05-12T17:03:12.269] [INFO] info - post params:{"menuType":1,"menuState":1,"parentId":["627ccd1bc77c7989057a2c93"],"menuName":"用户管理","path":"/system/user","action":"add"}
+[2022-05-12T17:03:12.532] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:03:12.532] [INFO] info - post params:{}
+[2022-05-12T17:05:26.896] [INFO] info - ***数据库连接成功***
+[2022-05-12T17:09:24.084] [INFO] info - ***数据库连接成功***
+[2022-05-12T17:10:47.825] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:10:47.826] [INFO] info - post params:{}
+[2022-05-12T17:12:09.238] [INFO] info - get params:{}
+[2022-05-12T17:12:09.239] [INFO] info - post params:{"_id":"627ccd1bc77c7989057a2c93","action":"delete"}
+[2022-05-12T17:12:09.484] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:12:09.485] [INFO] info - post params:{}
+[2022-05-12T17:12:11.592] [INFO] info - get params:{}
+[2022-05-12T17:12:11.593] [INFO] info - post params:{"_id":"627ccd32c77c7989057a2c98","action":"delete"}
+[2022-05-12T17:12:11.926] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:12:11.926] [INFO] info - post params:{}
+[2022-05-12T17:12:14.160] [INFO] info - get params:{}
+[2022-05-12T17:12:14.161] [INFO] info - post params:{}
+[2022-05-12T17:12:14.165] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:12:14.166] [INFO] info - post params:{}
+[2022-05-12T17:12:35.979] [INFO] info - get params:{}
+[2022-05-12T17:12:35.979] [INFO] info - post params:{"parentId":[null],"menuType":1,"menuState":1,"menuName":"系统管理","action":"add"}
+[2022-05-12T17:12:36.245] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:12:36.245] [INFO] info - post params:{}
+[2022-05-12T17:13:22.816] [INFO] info - get params:{}
+[2022-05-12T17:13:22.816] [INFO] info - post params:{"parentId":["627ccf83b7574291b0e4df54"],"menuType":1,"menuState":1,"menuName":"用户管理","path":"/system/user","action":"add"}
+[2022-05-12T17:13:23.079] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T17:13:23.080] [INFO] info - post params:{}
+[2022-05-12T17:16:49.109] [INFO] info - ***数据库连接成功***
+[2022-05-12T17:16:57.235] [INFO] info - ***数据库连接成功***
+[2022-05-12T17:17:13.019] [INFO] info - ***数据库连接成功***
+[2022-05-12T17:18:48.771] [INFO] info - ***数据库连接成功***
+[2022-05-12T19:09:59.156] [INFO] info - ***数据库连接成功***
+[2022-05-12T19:46:08.864] [INFO] info - ***数据库连接成功***
+[2022-05-12T19:46:25.630] [INFO] info - get params:{}
+[2022-05-12T19:46:25.632] [INFO] info - post params:{}
+[2022-05-12T19:46:29.655] [INFO] info - get params:{}
+[2022-05-12T19:46:29.656] [INFO] info - post params:{}
+[2022-05-12T19:46:33.490] [INFO] info - get params:{}
+[2022-05-12T19:46:33.490] [INFO] info - post params:{}
+[2022-05-12T19:47:06.628] [INFO] info - get params:{}
+[2022-05-12T19:47:06.628] [INFO] info - post params:{}
+[2022-05-12T19:47:06.769] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T19:47:06.770] [INFO] info - post params:{}
+[2022-05-12T19:47:20.036] [INFO] info - get params:{}
+[2022-05-12T19:47:20.037] [INFO] info - post params:{}
+[2022-05-12T19:47:20.042] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T19:47:20.043] [INFO] info - post params:{}
+[2022-05-12T19:51:05.404] [INFO] info - get params:{}
+[2022-05-12T19:51:05.404] [INFO] info - post params:{}
+[2022-05-12T19:51:05.408] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T19:51:05.408] [INFO] info - post params:{}
+[2022-05-12T19:51:37.137] [INFO] info - ***数据库连接成功***
+[2022-05-12T19:51:55.698] [INFO] info - get params:{}
+[2022-05-12T19:51:55.699] [INFO] info - post params:{}
+[2022-05-12T20:24:09.937] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:24:33.116] [INFO] info - get params:{}
+[2022-05-12T20:24:33.118] [INFO] info - post params:{}
+[2022-05-12T20:26:19.058] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:26:19.059] [INFO] info - post params:{}
+[2022-05-12T20:26:22.343] [INFO] info - get params:{}
+[2022-05-12T20:26:22.344] [INFO] info - post params:{}
+[2022-05-12T20:26:22.349] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:26:22.350] [INFO] info - post params:{}
+[2022-05-12T20:26:31.669] [INFO] info - get params:{}
+[2022-05-12T20:26:31.671] [INFO] info - post params:{}
+[2022-05-12T20:26:31.677] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:26:31.677] [INFO] info - post params:{}
+[2022-05-12T20:26:43.135] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:26:43.135] [INFO] info - post params:{}
+[2022-05-12T20:29:00.781] [INFO] info - get params:{}
+[2022-05-12T20:29:00.782] [INFO] info - post params:{}
+[2022-05-12T20:29:00.787] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:29:00.788] [INFO] info - post params:{}
+[2022-05-12T20:29:22.659] [INFO] info - get params:{}
+[2022-05-12T20:29:22.659] [INFO] info - post params:{}
+[2022-05-12T20:29:22.665] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:29:22.665] [INFO] info - post params:{}
+[2022-05-12T20:29:36.299] [INFO] info - get params:{"menuState":"2"}
+[2022-05-12T20:29:36.300] [INFO] info - post params:{}
+[2022-05-12T20:31:17.492] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:31:21.803] [INFO] info - get params:{}
+[2022-05-12T20:31:21.804] [INFO] info - post params:{}
+[2022-05-12T20:31:21.828] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:31:21.829] [INFO] info - post params:{}
+[2022-05-12T20:33:42.601] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:33:47.006] [INFO] info - get params:{}
+[2022-05-12T20:33:47.007] [INFO] info - post params:{}
+[2022-05-12T20:33:47.030] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:33:47.032] [INFO] info - post params:{}
+[2022-05-12T20:34:05.904] [INFO] info - get params:{}
+[2022-05-12T20:34:05.905] [INFO] info - post params:{}
+[2022-05-12T20:34:05.912] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:34:05.913] [INFO] info - post params:{}
+[2022-05-12T20:34:37.773] [INFO] info - get params:{}
+[2022-05-12T20:34:37.774] [INFO] info - post params:{"parentId":["627ccf83b7574291b0e4df54"],"menuType":1,"menuState":1,"menuName":"用户管理","icon":"无","path":"/system/user","action":"add"}
+[2022-05-12T20:34:37.837] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:34:37.837] [INFO] info - post params:{}
+[2022-05-12T20:34:40.224] [INFO] info - get params:{}
+[2022-05-12T20:34:40.225] [INFO] info - post params:{}
+[2022-05-12T20:34:40.228] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:34:40.229] [INFO] info - post params:{}
+[2022-05-12T20:34:48.686] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:34:48.687] [INFO] info - post params:{}
+[2022-05-12T20:35:03.146] [INFO] info - get params:{}
+[2022-05-12T20:35:03.146] [INFO] info - post params:{}
+[2022-05-12T20:35:03.151] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:35:03.151] [INFO] info - post params:{}
+[2022-05-12T20:35:28.559] [INFO] info - get params:{}
+[2022-05-12T20:35:28.561] [INFO] info - post params:{"parentId":[null],"menuType":1,"menuState":1,"menuName":"菜单管理","action":"add"}
+[2022-05-12T20:35:28.602] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:35:28.603] [INFO] info - post params:{}
+[2022-05-12T20:35:31.793] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:35:31.794] [INFO] info - post params:{}
+[2022-05-12T20:35:31.798] [INFO] info - get params:{}
+[2022-05-12T20:35:31.799] [INFO] info - post params:{}
+[2022-05-12T20:35:40.405] [INFO] info - get params:{}
+[2022-05-12T20:35:40.406] [INFO] info - post params:{"parentId":["627cff10138f56967255467f"],"menuType":1,"menuState":1,"menuName":"12121212","action":"add"}
+[2022-05-12T20:35:40.454] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:35:40.454] [INFO] info - post params:{}
+[2022-05-12T20:35:42.778] [INFO] info - get params:{}
+[2022-05-12T20:35:42.778] [INFO] info - post params:{}
+[2022-05-12T20:35:42.783] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:35:42.784] [INFO] info - post params:{}
+[2022-05-12T20:37:37.586] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:37:41.929] [INFO] info - get params:{}
+[2022-05-12T20:37:41.930] [INFO] info - post params:{}
+[2022-05-12T20:37:41.951] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:37:41.952] [INFO] info - post params:{}
+[2022-05-12T20:38:28.501] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:38:39.593] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:38:46.736] [INFO] info - get params:{}
+[2022-05-12T20:38:46.737] [INFO] info - post params:{}
+[2022-05-12T20:38:46.754] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T20:38:46.754] [INFO] info - post params:{}
+[2022-05-12T20:44:28.896] [INFO] info - ***数据库连接成功***
+[2022-05-12T20:44:39.808] [INFO] info - ***数据库连接成功***
+[2022-05-12T21:00:20.650] [INFO] info - ***数据库连接成功***
+[2022-05-12T21:00:41.813] [INFO] info - ***数据库连接成功***
+[2022-05-12T21:06:40.539] [INFO] info - get params:{}
+[2022-05-12T21:06:40.540] [INFO] info - post params:{}
+[2022-05-12T21:06:40.564] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T21:06:40.566] [INFO] info - post params:{}
+[2022-05-12T21:06:53.809] [INFO] info - get params:{}
+[2022-05-12T21:06:53.809] [INFO] info - post params:{"parentId":["627ccf83b7574291b0e4df54","627cfedd138f569672554677"],"menuType":2,"menuState":1,"menuName":"查看","action":"add"}
+[2022-05-12T21:06:53.873] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T21:06:53.874] [INFO] info - post params:{}
+[2022-05-12T21:06:56.498] [INFO] info - get params:{}
+[2022-05-12T21:06:56.498] [INFO] info - post params:{}
+[2022-05-12T21:06:56.504] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T21:06:56.505] [INFO] info - post params:{}
+[2022-05-12T21:07:50.390] [INFO] info - ***数据库连接成功***
+[2022-05-12T21:07:55.392] [INFO] info - get params:{}
+[2022-05-12T21:07:55.393] [INFO] info - post params:{}
+[2022-05-12T21:07:55.413] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T21:07:55.414] [INFO] info - post params:{}
+[2022-05-12T21:08:50.377] [INFO] info - ***数据库连接成功***
+[2022-05-12T21:09:22.258] [INFO] info - ***数据库连接成功***
+[2022-05-12T21:09:26.226] [INFO] info - get params:{}
+[2022-05-12T21:09:26.226] [INFO] info - post params:{}
+[2022-05-12T21:09:26.247] [INFO] info - get params:{"menuState":"1"}
+[2022-05-12T21:09:26.248] [INFO] info - post params:{}

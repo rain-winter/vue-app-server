@@ -11,6 +11,7 @@ const koajwt = require('koa-jwt') // 中间件，在路由启动前加载
 const util = require('./utils/utils.js')
 const log = require('./utils/log4js') // log
 const users = require('./routes/users') // 用户模块路由
+const menus = require('./routes/menus') // 1-菜单模块路由
 
 onerror(app) // error handler
 
@@ -41,7 +42,7 @@ app.use(async (ctx, next) => {
 	})
 })
 
-// TODO 任何请求都会经过它，校验token是否失效（拦截器）
+// 任何请求都会经过它，校验token是否失效（拦截器）
 app.use(koajwt({
 	secret: 'imooc'
 }).unless({
@@ -52,15 +53,17 @@ app.use(koajwt({
 router.prefix('/api') // 设置全局路由前缀
 
 // router.get('/leave/count', (ctx) => {
-// 	 TODO 从ctx.request获取token
+// 	 从ctx.request获取token
 // 	const token = ctx.request.headers.authorization.split(' ')[1]
-// 	 TODO 解密出数据
+// 	  解密出数据
 // 	const payload = jwt.verify(token, 'imooc')
 // 	ctx.body = '123'
 // })
 
 // 一级路由加载二级路由
 router.use(users.routes(), users.allowedMethods())
+router.use(menus.routes(), menus.allowedMethods())
+
 app.use(router.routes(), router.allowedMethods()) // 全局加载下一级路由
 
 // error-handling

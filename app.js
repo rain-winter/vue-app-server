@@ -13,6 +13,7 @@ const log = require('./utils/log4js') // log
 const users = require('./routes/users') // 用户模块路由
 const menus = require('./routes/menus') // 1-菜单模块路由
 const roles = require('./routes/roles') // 角色路由
+const depts = require('./routes/depts') // 角色路由
 
 onerror(app) // error handler
 
@@ -65,6 +66,7 @@ router.prefix('/api') // 设置全局路由前缀
 router.use(users.routes(), users.allowedMethods())
 router.use(menus.routes(), menus.allowedMethods())
 router.use(roles.routes(), roles.allowedMethods())
+router.use(depts.routes(), depts.allowedMethods())
 
 app.use(router.routes(), router.allowedMethods()) // 全局加载下一级路由
 

@@ -10,8 +10,32 @@ router.get('/list', async ctx => {
   let params = {}
   if (deptName) params.deptName = deptName
   let rootList = await Dept.find(params)
-  ctx.body = util.success(rootList)
+  if (deptName) {
+    ctx.body = util.success(rootList)
+  } else {
+    // 做递归
+    // d第二个null是为了查出来橘子皮
+    let treesList = getTreeDept(rootList, null, [])
+    ctx.body = util.success(treesList)
+  }
 })
+const getTreeDept = (rootList, id, list) => {
+  for (let i = 0; i < rootList.length; i++) {
+    let item = rootList[i]
+    console.log(item.parentId.slice())
+    if (String(item.parentId.slice().pop()) == String(id)) {
+      list.push(item._doc)
+    }
+  }
+  list.map(item => {
+    item.children = []
+    getTreeDept(rootList, item._id, item.children)
+    if (item.children.length == 0) {
+      delete item.children
+    }
+  })
+  return list
+}
 
 // 部门操作：创建、编辑、删除
 router.post('/operate', async ctx => {

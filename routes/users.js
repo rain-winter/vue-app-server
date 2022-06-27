@@ -6,6 +6,8 @@ const jwt = require('jsonwebtoken') // 引入jsonwebtoken
 router.prefix('/users') // 一级路由
 
 const User = require('../model/userSchema')
+const Menu = require('../model/menuSchema')
+const Role = require('../model/rolesSchema')
 const Counter = require('../model/counterSchema')
 const utils = require('../utils/utils')
 const util = require('../utils/utils')
@@ -21,6 +23,7 @@ router.post('/login', async ctx => {
      * 2、{userId:1} 为1返回 0不反回
      * 3、.select('userId')
      */
+    console.log(userName, userPwd)
     const res = await User.findOne(
       {
         userName,
@@ -50,6 +53,7 @@ router.post('/login', async ctx => {
     }
   } catch (error) {
     ctx.body = util.fail(error.msg)
+    console.log(error.stack)
   }
 })
 
@@ -215,5 +219,39 @@ router.get('/all/list', async ctx => {
     ctx.body = util.fail(error.stack)
   }
 })
+
+// 获取用户对应的权限菜单
+router.get('/getPermissionList', async ctx => {
+  const { authorization } = ctx.request.headers
+  let { data } = util.decodeToken(authorization)
+  let menuList = await getMenuList(data.role, data.roleList)
+  console.log('menuList=>', menuList)
+  ctx.body = util.success(menuList)
+})
+
+// 动态菜单
+const getMenuList = async (userRole, roleKeys) => {
+  let rootList = []
+  if (userRole == 0) {
+    // 是管理员，查询所有用户并交给util.getTreeMenu()进行遍历
+    // 这里是权限验证了
+    rootList = (await Menu.find({})) || []
+  } else {
+    // 根据用户拥有的角色获取权限列表
+    let permissionList = []
+    let roleList = await Role.find({ _id: { $in: roleKeys } })
+    // 去除重复权限
+    roleList.map(role => {
+      let { checkedKeys, halfCheckedKeys } = role.permissionList
+      permissionList = permissionList.concat([...checkedKeys, ...halfCheckedKeys])
+    })
+    permissionList = [...new Set(permissionList)]
+    console.log('permissionList', permissionList)
+    // 去Menu筛选菜单，查询出包括_id 在permissionList的数据
+    rootList = await Menu.find({ _id: { $in: permissionList } })
+    console.log('rootList', rootList)
+  }
+  return util.getTreeMenu(rootList, null, [])
+}
 
 module.exports = router

@@ -138,6 +138,13 @@ bson@^4.6.2:
   dependencies:
     buffer "^5.6.0"
 
+bson@^4.6.3:
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-4.6.4.tgz#e66d4a334f1ab230dfcfb9ec4ea9091476dd372e"
+  integrity sha512-TdQ3FzguAu5HKPPlr0kYQCyrYUYh8tFM+CMTpxjNzVzxeiJY00Rtuj3LXLHSgiGvmaWlZ8PE+4KyM2thqE38pQ==
+  dependencies:
+    buffer "^5.6.0"
+
 buffer-equal-constant-time@1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/buffer-equal-constant-time/-/buffer-equal-constant-time-1.0.1.tgz"
@@ -345,10 +352,10 @@ crypto-random-string@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-2.0.0.tgz#ef2a7a966ec11083388369baa02ebead229b30d5"
   integrity sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA==
 
-date-format@^4.0.9:
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/date-format/-/date-format-4.0.9.tgz#4788015ac56dedebe83b03bc361f00c1ddcf1923"
-  integrity sha512-+8J+BOUpSrlKLQLeF8xJJVTxS8QfRSuJgwxSVvslzgO3E6khbI0F5mMEPf5mTYhCCm4h99knYP6H3W9n3BQFrg==
+date-format@^4.0.10:
+  version "4.0.11"
+  resolved "https://registry.yarnpkg.com/date-format/-/date-format-4.0.11.tgz#ae0d1e069d7f0687938fd06f98c12f3a6276e526"
+  integrity sha512-VS20KRyorrbMCQmpdl2hg5KaOUsda1RbnsJg461FfrcyCUg+pkd0b40BSW4niQyTheww4DBXQnS7HwSrKkipLw==
 
 debug@4.x, debug@^4.1.1, debug@^4.3.2, debug@^4.3.4:
   version "4.3.4"
@@ -846,10 +853,10 @@ jws@^3.2.2:
     jwa "^1.4.1"
     safe-buffer "^5.0.1"
 
-kareem@2.3.5:
-  version "2.3.5"
-  resolved "https://registry.npmjs.org/kareem/-/kareem-2.3.5.tgz"
-  integrity sha512-qxCyQtp3ioawkiRNQr/v8xw9KIviMSSNmy+63Wubj7KmMn3g7noRXIZB4vPCAP+ETi2SR8eH6CvmlKZuGpoHOg==
+kareem@2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/kareem/-/kareem-2.4.1.tgz#7d81ec518204a48c1cb16554af126806c3cd82b0"
+  integrity sha512-aJ9opVoXroQUPfovYP5kaj2lM7Jn02Gw13bL0lg9v0V7SaUc0qavPs0Eue7d2DcC3NjqI6QAUElXNsuZSeM+EA==
 
 keygrip@~1.1.0:
   version "1.1.0"
@@ -1030,16 +1037,16 @@ lodash.once@^4.0.0:
   resolved "https://registry.npmjs.org/lodash.once/-/lodash.once-4.1.1.tgz"
   integrity sha1-DdOXEhPHxW34gJd9UEyI+0cal6w=
 
-log4js@^6.4.6:
-  version "6.4.6"
-  resolved "https://registry.yarnpkg.com/log4js/-/log4js-6.4.6.tgz#1878aa3f09973298ecb441345fe9dd714e355c15"
-  integrity sha512-1XMtRBZszmVZqPAOOWczH+Q94AI42mtNWjvjA5RduKTSWjEc56uOBbyM1CJnfN4Ym0wSd8cQ43zOojlSHgRDAw==
+log4js@^6.5.2:
+  version "6.5.2"
+  resolved "https://registry.yarnpkg.com/log4js/-/log4js-6.5.2.tgz#9ae371e5b3cb3a3a209c24686e5547f8670834e5"
+  integrity sha512-DXtpNtt+KDOMT7RHUDIur/WsSA3rntlUh9Zg4XCdV42wUuMmbFkl38+LZ92Z5QvQA7mD5kAVkLiBSEH/tvUB8A==
   dependencies:
-    date-format "^4.0.9"
+    date-format "^4.0.10"
     debug "^4.3.4"
     flatted "^3.2.5"
     rfdc "^1.3.0"
-    streamroller "^3.0.8"
+    streamroller "^3.1.1"
 
 lowercase-keys@^1.0.0, lowercase-keys@^1.0.1:
   version "1.0.1"
@@ -1126,28 +1133,28 @@ mongodb-connection-string-url@^2.5.2:
     "@types/whatwg-url" "^8.2.1"
     whatwg-url "^11.0.0"
 
-mongodb@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-4.5.0.tgz#d74c2008567b606dccef220f62a44cd7b934eb92"
-  integrity sha512-A2l8MjEpKojnhbCM0MK3+UOGUSGvTNNSv7AkP1fsT7tkambrkkqN/5F2y+PhzsV0Nbv58u04TETpkaSEdI2zKA==
+mongodb@4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-4.7.0.tgz#99f7323271d93659067695b60e7b4efee2de9bf0"
+  integrity sha512-HhVar6hsUeMAVlIbwQwWtV36iyjKd9qdhY+s4wcU8K6TOj4Q331iiMy+FoPuxEntDIijTYWivwFJkLv8q/ZgvA==
   dependencies:
-    bson "^4.6.2"
+    bson "^4.6.3"
     denque "^2.0.1"
     mongodb-connection-string-url "^2.5.2"
     socks "^2.6.2"
   optionalDependencies:
     saslprep "^1.0.3"
 
-mongoose@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-6.3.2.tgz#7cac2d11119896c8235ce03ae65c322257435142"
-  integrity sha512-4SEa8ynhJYkGMMbx6KOZ5kJz6qhKIYM8nAGufGq3xh+gNrKP3QwthNfc0X4DvTKhE0DQLMS1/Oy3cMl0AXm5RQ==
+mongoose@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-6.4.0.tgz#22d6ab436bdf444b833e92faaa53e47b734c15c6"
+  integrity sha512-eBDrueap1Zx3qFrcYylTiqTFlL5iTEaYAxoDF1MSRdipwAzChQRMJve+vxHtxPhI2q5tmf9RYHfZwXfTUHPd3g==
   dependencies:
     bson "^4.6.2"
-    kareem "2.3.5"
-    mongodb "4.5.0"
+    kareem "2.4.1"
+    mongodb "4.7.0"
     mpath "0.9.0"
-    mquery "4.0.2"
+    mquery "4.0.3"
     ms "2.1.3"
     sift "16.0.0"
 
@@ -1156,10 +1163,10 @@ mpath@0.9.0:
   resolved "https://registry.yarnpkg.com/mpath/-/mpath-0.9.0.tgz#0c122fe107846e31fc58c75b09c35514b3871904"
   integrity sha512-ikJRQTk8hw5DEoFVxHG1Gn9T/xcjtdnOKIU1JTmGjZZlg9LST2mBLmcX3/ICIbgJydT2GOc15RnNy5mHmzfSew==
 
-mquery@4.0.2:
-  version "4.0.2"
-  resolved "https://registry.npmjs.org/mquery/-/mquery-4.0.2.tgz"
-  integrity sha512-oAVF0Nil1mT3rxty6Zln4YiD6x6QsUWYz927jZzjMxOK2aqmhEz5JQ7xmrKK7xRFA2dwV+YaOpKU/S+vfNqKxA==
+mquery@4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/mquery/-/mquery-4.0.3.tgz#4d15f938e6247d773a942c912d9748bd1965f89d"
+  integrity sha512-J5heI+P08I6VJ2Ky3+33IpCdAvlYGTSUjwTPxkAr8i8EoduPMBX2OY/wa3IKZIQl7MU4SbFk8ndgSKyB/cl1zA==
   dependencies:
     debug "4.x"
 
@@ -1531,12 +1538,12 @@ streaming-json-stringify@3:
     json-stringify-safe "5"
     readable-stream "2"
 
-streamroller@^3.0.8:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/streamroller/-/streamroller-3.0.8.tgz#84b190e4080ee311ca1ebe0444e30ac8eedd028d"
-  integrity sha512-VI+ni3czbFZrd1MrlybxykWZ8sMDCMtTU7YJyhgb9M5X6d1DDxLdJr+gSnmRpXPMnIWxWKMaAE8K0WumBp3lDg==
+streamroller@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/streamroller/-/streamroller-3.1.1.tgz#679aae10a4703acdf2740755307df0a05ad752e6"
+  integrity sha512-iPhtd9unZ6zKdWgMeYGfSBuqCngyJy1B/GPi/lTpwGpa3bajuX30GjUVd0/Tn/Xhg0mr4DOSENozz9Y06qyonQ==
   dependencies:
-    date-format "^4.0.9"
+    date-format "^4.0.10"
     debug "^4.3.4"
     fs-extra "^10.1.0"
 

@@ -10,7 +10,7 @@ specifiers:
   koa-jwt: ^4.0.3
   koa-logger: ^3.2.1
   koa-onerror: ^4.2.0
-  koa-router: ^10.1.1
+  koa-router: ^12.0.0
   koa-static: ^5.0.0
   log4js: ^6.6.1
   md5: ^2.3.0
@@ -27,7 +27,7 @@ dependencies:
   koa-jwt: 4.0.3
   koa-logger: 3.2.1
   koa-onerror: 4.2.0
-  koa-router: 10.1.1
+  koa-router: 12.0.0
   koa-static: 5.0.0
   log4js: 6.6.1
   md5: 2.3.0
@@ -628,17 +628,14 @@ packages:
       stream-wormhole: 1.1.0
     dev: false
 
-  /koa-router/10.1.1:
-    resolution: {integrity: sha512-z/OzxVjf5NyuNO3t9nJpx7e1oR3FSBAauiwXtMQu4ppcnuNZzTaQ4p21P8A6r2Es8uJJM339oc4oVW+qX7SqnQ==}
-    engines: {node: '>= 8.0.0'}
+  /koa-router/12.0.0:
+    resolution: {integrity: sha512-zGrdiXygGYW8WvrzeGsHZvKnHs4DzyGoqJ9a8iHlRkiwuEAOAPyI27//OlhoWdgFAEIM3qbUgr0KCuRaP/TCag==}
+    engines: {node: '>= 12'}
     dependencies:
-      debug: 4.3.4
-      http-errors: 1.8.1
+      http-errors: 2.0.0
       koa-compose: 4.1.0
       methods: 1.1.2
       path-to-regexp: 6.2.1
-    transitivePeerDependencies:
-      - supports-color
     dev: false
 
   /koa-send/5.0.1:

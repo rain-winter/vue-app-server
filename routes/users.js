@@ -226,7 +226,10 @@ router.get('/getPermissionList', async ctx => {
   let { data } = util.decodeToken(authorization)
   let menuList = await getMenuList(data.role, data.roleList)
   console.log('menuList=>', menuList)
-  ctx.body = util.success(menuList)
+  // 深拷贝
+  // pop()会影响原数组，所以需要JSON.parse(JSON.stringfy())生成新的对象
+  let actionList = getActionList(JSON.parse(JSON.stringify(menuList)))
+  ctx.body = util.success({ menuList, actionList })
 })
 
 // 动态菜单
@@ -252,6 +255,26 @@ const getMenuList = async (userRole, roleKeys) => {
     console.log('rootList', rootList)
   }
   return util.getTreeMenu(rootList, null, [])
+}
+
+// 按钮列表
+const getActionList = list => {
+  const actionList = []
+  const deep = arr => {
+    while (arr.length) {
+      let item = arr.pop()
+      if (item.action) {
+        item.action.map(action => {
+          actionList.push(action.menuCode)
+        })
+      }
+      if (item.children && !item.action) {
+        deep(item.children)
+      }
+    }
+  }
+  deep(list)
+  return actionList
 }
 
 module.exports = router
